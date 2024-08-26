@@ -1,8 +1,3 @@
-## running trial
-1. test chatgpt-api key (done)
-2. make a clone social app (ongoing)
-3. mix both and add chatgpt as extension
-
 ## Introduction
 ------------
 The Edubot is a Python application that allows you to chat with multiple documents. You can ask questions about the documents using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded documents.
@@ -14,7 +9,7 @@ The Edubot is a Python application that allows you to chat with multiple documen
 
 The application follows these steps to provide responses to your questions:
 
-1. PDF Loading: The app reads multiple PDF documents and extracts their text content.
+1. Documents Loading: The app reads multiple documents and extracts their text content.(As for now the app can receive PDFs, Excel, or CSV files)
 
 2. Text Chunking: The extracted text is divided into smaller chunks that can be processed effectively.
 
