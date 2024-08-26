@@ -29,6 +29,7 @@ Please follow these steps:
    ```
    pip install -r requirements.txt
    ```
+Add the OpenAI API Key in the .env files.
 
 ## Usage
 -----
@@ -36,7 +37,7 @@ To use the Edubot, follow these steps:
 
 1. Ensure that you have installed the required dependencies.
 
-2. Personal OpenAI API Key was used in the .env files
+2. Personal OpenAI API Key was used in the .env files.
 
 2. Run the `main.py` file using the Streamlit CLI. Execute the following command:
    ```
