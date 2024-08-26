@@ -29,7 +29,7 @@ Please follow these steps:
    ```
    pip install -r requirements.txt
    ```
-Add the OpenAI API Key in the .env files.
+3. Add the OpenAI API Key in the .env files.
 
 ## Usage
 -----
