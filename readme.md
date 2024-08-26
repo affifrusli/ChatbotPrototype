@@ -36,6 +36,8 @@ To use the Edubot, follow these steps:
 
 1. Ensure that you have installed the required dependencies.
 
+2. Personal OpenAI API Key was used in the .env files
+
 2. Run the `main.py` file using the Streamlit CLI. Execute the following command:
    ```
    streamlit run app.py
