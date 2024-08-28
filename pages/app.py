@@ -68,10 +68,10 @@ def handle_userinput(user_question):
             st.write(bot_template.replace(
                 "{{MSG}}", message.content), unsafe_allow_html=True)
     
-st.set_page_config(page_title="Chatbot", page_icon="🧠")
+st.set_page_config(page_title="EduBOT - Chatbot for Educational Institutions", page_icon="🧠")
 
 def main():
-    st.header("AI Chatbot 🧠")
+    st.header("EduBOT - Chatbot for Educational Institutions 🧠")
     load_dotenv()
     st.write(css, unsafe_allow_html=True)
 
